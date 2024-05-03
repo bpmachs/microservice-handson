@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: department-service-model
+  config:
+    import: "optional:configserver:http://localhost:11090"
